@@ -1,2 +1,2 @@
 (this["webpackJsonpcat-app"]=this["webpackJsonpcat-app"]||[]).push([[3],{85:function(t,c,e){"use strict";e.r(c);e(0);var n=e(22),s=e(3),i=e(1);c.default=function(){return Object(i.jsxs)(s.l,{children:[Object(i.jsx)(s.m,{children:"Page not found?"}),Object(i.jsxs)(s.i,{children:["Go to ",Object(i.jsx)(n.b,{to:"/",children:" home"})]})]})}}}]);
-//# sourceMappingURL=3.239d4621.chunk.js.map
+//# sourceMappingURL=3.24b65d1c.chunk.js.map
