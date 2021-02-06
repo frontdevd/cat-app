@@ -13,7 +13,7 @@ const App: React.FC = () => {
 					<Header/>
 					<Layout/>
 				</Route>
-				<Suspense fallback={<div>Loading...</div>}>
+				<Suspense fallback={''}>
 					<Route exact path='/page-not-found'>
 						<NotFound/>
 					</Route>
